@@ -5,3 +5,7 @@ The last time I tried, whatever change I made to this readme in VS Code, Git did
 - here is my first change!
 
 sdgsgdsdgsdgsd
+
+## Local Development
+
+1. Open index.html in your browser
